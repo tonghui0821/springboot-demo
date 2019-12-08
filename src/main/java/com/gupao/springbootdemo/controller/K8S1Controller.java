@@ -8,7 +8,7 @@ public class K8S1Controller {
 
 
     @RequestMapping("/k8s")
-    public String k8s(){
+    public String k8s1(){
         return "hello K8s <br/>111222 ";
     }
 }
